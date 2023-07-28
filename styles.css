@@ -1,8 +1,8 @@
 
 /* Your CSS Code here. */
 .item{
-	width: 100vw;
-	height: 2vw;
+	margin:0px;
+	padding:0px;
 }
 .item1{
 	background-color:red;
