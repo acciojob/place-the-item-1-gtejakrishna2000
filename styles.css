@@ -5,6 +5,19 @@
 	height: 2vw;
 }
 .item1{
+	background-color:red;
+	display:flex;
+	position:relative;
+	justify-content: space-between;
+}
+.item2{
+	background-color:blue;
+	display:flex;
+	position:relative;
+	justify-content: space-between;
+}
+.item3{
+	background-color:green;
 	display:flex;
 	position:relative;
 	justify-content: space-between;
